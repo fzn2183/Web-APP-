@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bZ8HJulRbzzi2FDGKXFTHl0Pvai6yJA81Y5n2YT2KCJpVtnlUIKvX4zu8YcJHwh65A//wWCTSfLcQpPKlIa1Gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hajin\\OneDrive\\Desktop\\ayyan\\Registration.Module.moodule\\Shared\\Registration.Module.moodule.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hajin\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

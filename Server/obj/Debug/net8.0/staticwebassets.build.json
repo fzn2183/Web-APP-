@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "S0AYdolMJTtLXMOK8JvfiNU3XOveo+qcVD+ZmvnOr9o=",
+  "Source": "Registration.Module.moodule.Server.Oqtane",
+  "BasePath": "_content/Registration.Module.moodule.Server.Oqtane",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Registration.Module.moodule.Server.Oqtane\\wwwroot",
+      "Source": "Registration.Module.moodule.Server.Oqtane",
+      "ContentRoot": "C:\\Users\\hajin\\OneDrive\\Desktop\\ayyan\\Registration.Module.moodule\\Server\\wwwroot\\",
+      "BasePath": "_content/Registration.Module.moodule.Server.Oqtane",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\hajin\\OneDrive\\Desktop\\ayyan\\Registration.Module.moodule\\Server\\wwwroot\\Modules\\Registration.Module.moodule\\Module.css",
+      "SourceId": "Registration.Module.moodule.Server.Oqtane",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hajin\\OneDrive\\Desktop\\ayyan\\Registration.Module.moodule\\Server\\wwwroot\\",
+      "BasePath": "_content/Registration.Module.moodule.Server.Oqtane",
+      "RelativePath": "Modules/Registration.Module.moodule/Module.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Modules\\Registration.Module.moodule\\Module.css"
+    },
+    {
+      "Identity": "C:\\Users\\hajin\\OneDrive\\Desktop\\ayyan\\Registration.Module.moodule\\Server\\wwwroot\\Modules\\Registration.Module.moodule\\Module.js",
+      "SourceId": "Registration.Module.moodule.Server.Oqtane",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hajin\\OneDrive\\Desktop\\ayyan\\Registration.Module.moodule\\Server\\wwwroot\\",
+      "BasePath": "_content/Registration.Module.moodule.Server.Oqtane",
+      "RelativePath": "Modules/Registration.Module.moodule/Module.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Modules\\Registration.Module.moodule\\Module.js"
+    }
+  ]
+}

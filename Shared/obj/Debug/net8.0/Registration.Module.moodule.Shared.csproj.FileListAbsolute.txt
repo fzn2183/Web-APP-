@@ -1,0 +1,15 @@
+C:\Users\hajin\OneDrive\Desktop\ayyan\Registration.Module.moodule\Shared\bin\Debug\net8.0\Registration.Module.moodule.Shared.Oqtane.deps.json
+C:\Users\hajin\OneDrive\Desktop\ayyan\Registration.Module.moodule\Shared\bin\Debug\net8.0\Registration.Module.moodule.Shared.Oqtane.dll
+C:\Users\hajin\OneDrive\Desktop\ayyan\Registration.Module.moodule\Shared\bin\Debug\net8.0\Registration.Module.moodule.Shared.Oqtane.pdb
+C:\Users\hajin\OneDrive\Desktop\ayyan\Registration.Module.moodule\Shared\bin\Debug\net8.0\Oqtane.Shared.dll
+C:\Users\hajin\OneDrive\Desktop\ayyan\Registration.Module.moodule\Shared\bin\Debug\net8.0\Oqtane.Shared.pdb
+C:\Users\hajin\OneDrive\Desktop\ayyan\Registration.Module.moodule\Shared\obj\Debug\net8.0\Registration.Module.moodule.Shared.csproj.AssemblyReference.cache
+C:\Users\hajin\OneDrive\Desktop\ayyan\Registration.Module.moodule\Shared\obj\Debug\net8.0\Registration.Module.moodule.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hajin\OneDrive\Desktop\ayyan\Registration.Module.moodule\Shared\obj\Debug\net8.0\Registration.Module.moodule.Shared.AssemblyInfoInputs.cache
+C:\Users\hajin\OneDrive\Desktop\ayyan\Registration.Module.moodule\Shared\obj\Debug\net8.0\Registration.Module.moodule.Shared.AssemblyInfo.cs
+C:\Users\hajin\OneDrive\Desktop\ayyan\Registration.Module.moodule\Shared\obj\Debug\net8.0\Registration.Module.moodule.Shared.csproj.CoreCompileInputs.cache
+C:\Users\hajin\OneDrive\Desktop\ayyan\Registration.Module.moodule\Shared\obj\Debug\net8.0\Registration.Module.moodule.Shared.csproj.CopyComplete
+C:\Users\hajin\OneDrive\Desktop\ayyan\Registration.Module.moodule\Shared\obj\Debug\net8.0\Registration.Module.moodule.Shared.Oqtane.dll
+C:\Users\hajin\OneDrive\Desktop\ayyan\Registration.Module.moodule\Shared\obj\Debug\net8.0\refint\Registration.Module.moodule.Shared.Oqtane.dll
+C:\Users\hajin\OneDrive\Desktop\ayyan\Registration.Module.moodule\Shared\obj\Debug\net8.0\Registration.Module.moodule.Shared.Oqtane.pdb
+C:\Users\hajin\OneDrive\Desktop\ayyan\Registration.Module.moodule\Shared\obj\Debug\net8.0\ref\Registration.Module.moodule.Shared.Oqtane.dll

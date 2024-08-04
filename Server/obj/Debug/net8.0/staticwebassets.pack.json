@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hajin\\OneDrive\\Desktop\\ayyan\\Registration.Module.moodule\\Server\\wwwroot\\Modules\\Registration.Module.moodule\\Module.css",
+      "PackagePath": "staticwebassets\\Modules\\Registration.Module.moodule\\Module.css"
+    },
+    {
+      "Id": "C:\\Users\\hajin\\OneDrive\\Desktop\\ayyan\\Registration.Module.moodule\\Server\\wwwroot\\Modules\\Registration.Module.moodule\\Module.js",
+      "PackagePath": "staticwebassets\\Modules\\Registration.Module.moodule\\Module.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Registration.Module.moodule.Server.Oqtane.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Registration.Module.moodule.Server.Oqtane.props",
+      "PackagePath": "build\\Registration.Module.moodule.Server.Oqtane.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Registration.Module.moodule.Server.Oqtane.props",
+      "PackagePath": "buildMultiTargeting\\Registration.Module.moodule.Server.Oqtane.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Registration.Module.moodule.Server.Oqtane.props",
+      "PackagePath": "buildTransitive\\Registration.Module.moodule.Server.Oqtane.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

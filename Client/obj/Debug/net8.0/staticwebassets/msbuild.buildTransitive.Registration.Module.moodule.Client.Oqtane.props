@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Registration.Module.moodule.Client.Oqtane.props" />
+</Project>

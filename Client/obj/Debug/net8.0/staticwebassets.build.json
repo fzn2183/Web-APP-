@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "Hash": "4U3Ykc0WucLCA0NvrR4yDK4svxFEtqJcU3c4SbxVZ9s=",
+  "Source": "Registration.Module.moodule.Client.Oqtane",
+  "BasePath": "_content/Registration.Module.moodule.Client.Oqtane",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\hajin\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\8.0.1\\staticwebassets\\AuthenticationService.js",
+      "SourceId": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\hajin\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\8.0.1\\staticwebassets\\",
+      "BasePath": "_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+      "RelativePath": "AuthenticationService.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\hajin\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\8.0.1\\staticwebassets\\AuthenticationService.js"
+    }
+  ]
+}
